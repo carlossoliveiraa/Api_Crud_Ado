@@ -1,0 +1,15 @@
+C:\GIT\Api_Crud\Tier_Architecture\Tier_Architecture.Data\bin\Debug\net7.0\Tier_Architecture.Data.deps.json
+C:\GIT\Api_Crud\Tier_Architecture\Tier_Architecture.Data\bin\Debug\net7.0\Tier_Architecture.Data.dll
+C:\GIT\Api_Crud\Tier_Architecture\Tier_Architecture.Data\bin\Debug\net7.0\Tier_Architecture.Data.pdb
+C:\GIT\Api_Crud\Tier_Architecture\Tier_Architecture.Data\bin\Debug\net7.0\Tier_Architecture.Application.dll
+C:\GIT\Api_Crud\Tier_Architecture\Tier_Architecture.Data\bin\Debug\net7.0\Tier_Architecture.Application.pdb
+C:\GIT\Api_Crud\Tier_Architecture\Tier_Architecture.Data\obj\Debug\net7.0\Tier_Architecture.Data.csproj.AssemblyReference.cache
+C:\GIT\Api_Crud\Tier_Architecture\Tier_Architecture.Data\obj\Debug\net7.0\Tier_Architecture.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\Api_Crud\Tier_Architecture\Tier_Architecture.Data\obj\Debug\net7.0\Tier_Architecture.Data.AssemblyInfoInputs.cache
+C:\GIT\Api_Crud\Tier_Architecture\Tier_Architecture.Data\obj\Debug\net7.0\Tier_Architecture.Data.AssemblyInfo.cs
+C:\GIT\Api_Crud\Tier_Architecture\Tier_Architecture.Data\obj\Debug\net7.0\Tier_Architecture.Data.csproj.CoreCompileInputs.cache
+C:\GIT\Api_Crud\Tier_Architecture\Tier_Architecture.Data\obj\Debug\net7.0\Tier_Architecture.Data.csproj.CopyComplete
+C:\GIT\Api_Crud\Tier_Architecture\Tier_Architecture.Data\obj\Debug\net7.0\Tier_Architecture.Data.dll
+C:\GIT\Api_Crud\Tier_Architecture\Tier_Architecture.Data\obj\Debug\net7.0\refint\Tier_Architecture.Data.dll
+C:\GIT\Api_Crud\Tier_Architecture\Tier_Architecture.Data\obj\Debug\net7.0\Tier_Architecture.Data.pdb
+C:\GIT\Api_Crud\Tier_Architecture\Tier_Architecture.Data\obj\Debug\net7.0\ref\Tier_Architecture.Data.dll

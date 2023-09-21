@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Tier_Architecture.Presentation.Api.props" />
+</Project>
