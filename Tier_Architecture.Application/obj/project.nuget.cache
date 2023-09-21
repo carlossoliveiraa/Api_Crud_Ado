@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QdSwf6TlsC12heNTdN11qs6jgnM3nYwANbgtLtN2EDPh3CdXtYDJ7hm54Af6pIdGlmzLoAcTUsaCHo/Ojwf3pQ==",
+  "dgSpecHash": "Ki8Ca7lW6eu3kNbOjar/JHg37a9M/RS/yRX5NTpY4LLdnJAwjn1aIS5HmH9JCsMe2xVAj8TCyVxEmT2eYoijLg==",
   "success": true,
-  "projectFilePath": "C:\\GIT\\Api_Crud\\Tier_Architecture\\Tier_Architecture.Application\\Tier_Architecture.Application.csproj",
+  "projectFilePath": "C:\\GIT\\Api_Crud\\Api_Crud_Ado\\Tier_Architecture.Application\\Tier_Architecture.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

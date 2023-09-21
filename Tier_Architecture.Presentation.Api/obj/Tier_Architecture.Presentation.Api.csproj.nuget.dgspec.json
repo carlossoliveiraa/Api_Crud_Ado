@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GIT\\Api_Crud\\Tier_Architecture\\Tier_Architecture.Presentation.Api\\Tier_Architecture.Presentation.Api.csproj": {}
+    "C:\\GIT\\Api_Crud\\Api_Crud_Ado\\Tier_Architecture.Presentation.Api\\Tier_Architecture.Presentation.Api.csproj": {}
   },
   "projects": {
-    "C:\\GIT\\Api_Crud\\Tier_Architecture\\Tier_Architecture.Application\\Tier_Architecture.Application.csproj": {
+    "C:\\GIT\\Api_Crud\\Api_Crud_Ado\\Tier_Architecture.Application\\Tier_Architecture.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\Api_Crud\\Tier_Architecture\\Tier_Architecture.Application\\Tier_Architecture.Application.csproj",
+        "projectUniqueName": "C:\\GIT\\Api_Crud\\Api_Crud_Ado\\Tier_Architecture.Application\\Tier_Architecture.Application.csproj",
         "projectName": "Tier_Architecture.Application",
-        "projectPath": "C:\\GIT\\Api_Crud\\Tier_Architecture\\Tier_Architecture.Application\\Tier_Architecture.Application.csproj",
+        "projectPath": "C:\\GIT\\Api_Crud\\Api_Crud_Ado\\Tier_Architecture.Application\\Tier_Architecture.Application.csproj",
         "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\Api_Crud\\Tier_Architecture\\Tier_Architecture.Application\\obj\\",
+        "outputPath": "C:\\GIT\\Api_Crud\\Api_Crud_Ado\\Tier_Architecture.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\GIT\\Api_Crud\\Tier_Architecture\\Tier_Architecture.Data\\Tier_Architecture.Data.csproj": {
+    "C:\\GIT\\Api_Crud\\Api_Crud_Ado\\Tier_Architecture.Data\\Tier_Architecture.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\Api_Crud\\Tier_Architecture\\Tier_Architecture.Data\\Tier_Architecture.Data.csproj",
+        "projectUniqueName": "C:\\GIT\\Api_Crud\\Api_Crud_Ado\\Tier_Architecture.Data\\Tier_Architecture.Data.csproj",
         "projectName": "Tier_Architecture.Data",
-        "projectPath": "C:\\GIT\\Api_Crud\\Tier_Architecture\\Tier_Architecture.Data\\Tier_Architecture.Data.csproj",
+        "projectPath": "C:\\GIT\\Api_Crud\\Api_Crud_Ado\\Tier_Architecture.Data\\Tier_Architecture.Data.csproj",
         "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\Api_Crud\\Tier_Architecture\\Tier_Architecture.Data\\obj\\",
+        "outputPath": "C:\\GIT\\Api_Crud\\Api_Crud_Ado\\Tier_Architecture.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -93,8 +93,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\GIT\\Api_Crud\\Tier_Architecture\\Tier_Architecture.Application\\Tier_Architecture.Application.csproj": {
-                "projectPath": "C:\\GIT\\Api_Crud\\Tier_Architecture\\Tier_Architecture.Application\\Tier_Architecture.Application.csproj"
+              "C:\\GIT\\Api_Crud\\Api_Crud_Ado\\Tier_Architecture.Application\\Tier_Architecture.Application.csproj": {
+                "projectPath": "C:\\GIT\\Api_Crud\\Api_Crud_Ado\\Tier_Architecture.Application\\Tier_Architecture.Application.csproj"
               }
             }
           }
@@ -134,14 +134,14 @@
         }
       }
     },
-    "C:\\GIT\\Api_Crud\\Tier_Architecture\\Tier_Architecture.Presentation.Api\\Tier_Architecture.Presentation.Api.csproj": {
+    "C:\\GIT\\Api_Crud\\Api_Crud_Ado\\Tier_Architecture.Presentation.Api\\Tier_Architecture.Presentation.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\Api_Crud\\Tier_Architecture\\Tier_Architecture.Presentation.Api\\Tier_Architecture.Presentation.Api.csproj",
+        "projectUniqueName": "C:\\GIT\\Api_Crud\\Api_Crud_Ado\\Tier_Architecture.Presentation.Api\\Tier_Architecture.Presentation.Api.csproj",
         "projectName": "Tier_Architecture.Presentation.Api",
-        "projectPath": "C:\\GIT\\Api_Crud\\Tier_Architecture\\Tier_Architecture.Presentation.Api\\Tier_Architecture.Presentation.Api.csproj",
+        "projectPath": "C:\\GIT\\Api_Crud\\Api_Crud_Ado\\Tier_Architecture.Presentation.Api\\Tier_Architecture.Presentation.Api.csproj",
         "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\Api_Crud\\Tier_Architecture\\Tier_Architecture.Presentation.Api\\obj\\",
+        "outputPath": "C:\\GIT\\Api_Crud\\Api_Crud_Ado\\Tier_Architecture.Presentation.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -163,11 +163,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\GIT\\Api_Crud\\Tier_Architecture\\Tier_Architecture.Application\\Tier_Architecture.Application.csproj": {
-                "projectPath": "C:\\GIT\\Api_Crud\\Tier_Architecture\\Tier_Architecture.Application\\Tier_Architecture.Application.csproj"
+              "C:\\GIT\\Api_Crud\\Api_Crud_Ado\\Tier_Architecture.Application\\Tier_Architecture.Application.csproj": {
+                "projectPath": "C:\\GIT\\Api_Crud\\Api_Crud_Ado\\Tier_Architecture.Application\\Tier_Architecture.Application.csproj"
               },
-              "C:\\GIT\\Api_Crud\\Tier_Architecture\\Tier_Architecture.Data\\Tier_Architecture.Data.csproj": {
-                "projectPath": "C:\\GIT\\Api_Crud\\Tier_Architecture\\Tier_Architecture.Data\\Tier_Architecture.Data.csproj"
+              "C:\\GIT\\Api_Crud\\Api_Crud_Ado\\Tier_Architecture.Data\\Tier_Architecture.Data.csproj": {
+                "projectPath": "C:\\GIT\\Api_Crud\\Api_Crud_Ado\\Tier_Architecture.Data\\Tier_Architecture.Data.csproj"
               }
             }
           }

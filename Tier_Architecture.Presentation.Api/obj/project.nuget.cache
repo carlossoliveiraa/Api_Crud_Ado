@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mGZVvFVX5R+iAFQjaZsSousBjVaHyR4v0BkH/9UfDSw5XW84p/ueCrcyaWxQA0ocJga1KLNo0LCDq3ahZ+ZW5Q==",
+  "dgSpecHash": "UpbxPIVmiIn+uuGmXbQpkiLp7ZbgKpo55lkg3D6yLwy0pSJs/1OeCpJrCjbtPtEkpNNbIKB21hRKzwivpdfCxg==",
   "success": true,
-  "projectFilePath": "C:\\GIT\\Api_Crud\\Tier_Architecture\\Tier_Architecture.Presentation.Api\\Tier_Architecture.Presentation.Api.csproj",
+  "projectFilePath": "C:\\GIT\\Api_Crud\\Api_Crud_Ado\\Tier_Architecture.Presentation.Api\\Tier_Architecture.Presentation.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carlo\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\carlo\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
